@@ -1,0 +1,15 @@
+{
+	"name": "adfmigration0061",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d23119ef-9c85-4b3d-ba18-5a0f842859da",
+		"tenantId": "aa74aa1b-903c-4ad3-b912-e886b62d60fb"
+	}
+}
